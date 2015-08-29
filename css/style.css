@@ -24,9 +24,6 @@ li {
         width: 970px;
     }
 }
-html {
-    overflow-x: hidden;
-}
 body {
     font-family: 'Roboto Slab', serif;
     font-size: 14px;
